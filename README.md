@@ -1,5 +1,5 @@
 # Sebastian Fredin
-My portfolio
+
 I am passionate student at IT-Högskolan hungry for learning. Right now I am studying AI and Machinelearning.
 I have since I graduated high-school basicly only worked in industry, logistic type jobs and driving forklifts. I started my programming journey in 2021 while working as a salesman/service-advisor at a  car-service company called Mechanum, where I for the first time had to use different systems and programs to order parts, schedule services and reparations. Before this the only experience I had with computers was gaming, but having to use a computer and always sharpen my skills to keep up with the work load was hard in the beginning but was very rewarding the more I learned. It sparked a thought in my head that maybe IT was my way forward in my work life/career. 
 
